@@ -1,7 +1,7 @@
 # Calendar
 Calendar is a grid-style calendar with one-hour events that plan out a single week. 
 
-## Here's how Calendar looks:
+**Here's how Calendar looks:**
 <img src='/timetableOverview.gif' title='Timetable Overview' width='' alt='Timetable Overview' />
 
 # Features:
@@ -13,23 +13,23 @@ Calendar is a grid-style calendar with one-hour events that plan out a single we
 
 
 # Getting started:
-## Install dependencies
+**Install dependencies**
 ```
 npm install
 ```
 
-## Run the application in developer mode
+**Run the application in developer mode**
 
 ```
 npm run dev
 ```
 
-## Open project in the browser
+**Open project in the browser**
 
 In the command line Vite will display a link, such as http://127.0.0.1:5173 to click on or copy/paste that will take you to the localhost port where the project is running.
 
 
-Tip: If you'd like to stop the server, you can use ctrl + c or cmd + c within the Terminal, or use the trash can icon in the top right of the Terminal within VS Code. To run the server again, simply use npm run dev again.
+**Tip:** If you'd like to stop the server, you can use ctrl + c or cmd + c within the Terminal, or use the trash can icon in the top right of the Terminal within VS Code. To run the server again, simply use npm run dev again.
 
 # React + Vite
 
