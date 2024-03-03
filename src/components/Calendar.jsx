@@ -7,7 +7,8 @@ const Calendar = () => {
             <table>
                 <thead>
                     <tr>
-                        <th colSpan={2}>Sunday</th>
+                        <th></th>
+                        <th>Sunday</th>
                         <th>Monday</th>
                         <th>Tuesday</th>
                         <th>Wednesday</th>
